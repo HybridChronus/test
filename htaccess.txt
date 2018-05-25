@@ -13,7 +13,7 @@
 # If using it causes your site to produce an error, comment it out (add # to the 
 # beginning of the line), reload your site in your browser and test your sef urls. If 
 # they work, then it has been set by your server administrator and you do not need to 
-# set it here.
+# set it heres.
 ##
 
 ## No directory listings
